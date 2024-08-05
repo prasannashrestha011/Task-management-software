@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "resolveJsonModule": true,
+      "esModuleInterop": true, // If using ES modules
+      "target": "esnext",
+      "module": "commonjs",
+      "strict": true
+    }
+  }
+  

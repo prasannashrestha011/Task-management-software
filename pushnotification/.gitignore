@@ -1,0 +1,9 @@
+# Node modules directory
+/node_modules
+
+# Package lock file
+/package-lock.json
+
+# Specific JSON files to ignore
+/index/taskmanagementapp-bf847-firebase-adminsdk-w1pr9-6767c443ec.json
+/index/taskmanagementapp-bf847-firebase-adminsdk-w1pr9-896189edcc.json
